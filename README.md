@@ -1,7 +1,5 @@
-# Docker
-## Test
-###### This project is collaborated with socket-server and docker with the base of python. 
-Python is quite simple to start, and there are many different modules that can connect with Python
-Socketserver can also connect with Arduino by implementing arduino Firmata to the server part of socket server
-Docker can keep all the source codes and packages in one image stored in the container, 
-which can help running applications in several different conditions.
+# Socketserver
+## Ping and communicate other clients through server in socketserver
+###### This project uses socket-server with python language and it connects with the Arduino. 
+Socketserver helps with one client with communicating to the server, and giving tasks.
+It can be used with Java and Python for language, and this one is used with python.
